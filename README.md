@@ -47,8 +47,12 @@ How to use the SQL Server Trail Project?
     the tables    names and the questions. If the file doesn't recognize the tables - go to Edit – Intellisense – Refresh local  
     Cache. 
 3.	If you don’t success to answer on a question, you can do two things: 
+  
   A.	Explorer the topic and his syntax in the internet. 
-  B.	Open file number 3, Select and Execute the Answer. 
+  B.	Open file number 3, Select and Execute the Answer.
+  
+ 
+enjoy!
 
 
 
