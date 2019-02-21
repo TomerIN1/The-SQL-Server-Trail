@@ -42,7 +42,8 @@ The topics organized from a beginner Level into an Advanced Level. Inside of eac
 
 
 # How to use the SQL Server Trail Project? 
-1.	Open file number 1 and press Execute. This will create automatically the Database name and all the Project Tables.
+1.	Open file number 1 and press Execute. This will create automatically the Database name and all the Project Tables. to see               
+    the tables names and key connections open the file: "database tables names and key connections" 
 2.	Open file number 2 and start walking on the trail. In the beginning of each topic you will see the topics name, 
     the tables    names and the questions. If the file doesn't recognize the tables - go to Edit – Intellisense – Refresh local  
     Cache. 
