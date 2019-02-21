@@ -34,14 +34,14 @@ The topics organized from a beginner Level into an Advanced Level. Inside of eac
 30.	Recursive CTEs 
 
 
-The project made up of three files: 
+#The project made up of three files: 
 1.	Number 1 - Create Database Tables file.
 2.	Number 2 - The SQL Server Trail – Solo practice file. 
 3.  Number 3 - Questions and Answers file. 
 
 
 
-How to use the SQL Server Trail Project? 
+#How to use the SQL Server Trail Project? 
 1.	Open file number 1 and press Execute. This will create automatically the Database name and all the Project Tables.
 2.	Open file number 2 and start walking on the trail. In the beginning of each topic you will see the topics name, 
     the tables    names and the questions. If the file doesn't recognize the tables - go to Edit – Intellisense – Refresh local  
