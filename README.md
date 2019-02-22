@@ -47,7 +47,7 @@ The topics organized from a beginner Level into an Advanced Level. Inside of eac
 2.	Open file number 2 and start walking on the trail. In the beginning of each topic you will see the topics name, 
     the tables    names and the questions. If the file doesn't recognize the tables - go to Edit – Intellisense – Refresh local  
     Cache. 
-3.	If you don’t success to answer on a question, you can do two things: 
+3.	If you don’t success to answer a question, you can do two things: 
   
       A. Explorer the topic and his syntax in the internet.
   
